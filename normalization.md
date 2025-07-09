@@ -1,6 +1,6 @@
 # Normalization
 
-Image: ![ERD diagram](./erd.drawio.png)
+Image: ![ERD diagram](ERD/erd.drawio.png)
 
 
 # Database Normalization to 3NF
